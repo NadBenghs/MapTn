@@ -1,0 +1,27 @@
+
+
+
+#map{
+
+    text-align: left;
+    margin-right: 15px;
+
+
+}
+
+body{
+display:flex;
+font-size: 15px;
+font-family: Arial, Helvetica, sans-serif;
+color:white;
+background-color: rgb(110, 3, 3);
+}
+
+#gouv_show_info{
+
+text-align: left;
+padding:50px;
+
+
+
+}
